@@ -1,4 +1,4 @@
-Flutter Retrofit Example
+Flutter Retrofit Example task by Actonus
 
 This project demonstrates how to create a simple Flutter application with REST API integration using the Retrofit package.
 
